@@ -1,2 +1,4 @@
 # analog_clock
- analog+digital
+
+
+Its an analog + digital clock.....that's all
